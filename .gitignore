@@ -2,3 +2,6 @@ token.txt
 *.db
 *.pyc
 bot.py
+.env
+practice_bot
+.db
